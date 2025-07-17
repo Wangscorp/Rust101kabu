@@ -8,3 +8,7 @@ edition = "2024"
 [[bin]]
 name="looping"
 path="src/looping.rs"
+
+[[bin]]
+name="sorry"
+path="src/sorry.rs"
